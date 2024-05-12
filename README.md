@@ -44,4 +44,4 @@ In the end, our system reached a sensitivity of has a sensitivity of 0.4204 V/(m
 
 ## FYP Results
 
-Our project got 2nd Runner-Up for best Mid-term Best Poster Awards.
+Our project received 2nd place in the Best Demo Award for HKUST ECE Final Year Project Industry Day (Demo Day). We also received 2nd runner-up in the mid-term poster. 
