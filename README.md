@@ -1,4 +1,4 @@
-# FYP-Passive-Vibration-System
+# Powerless Vibration Sensor Probe using DHFLC
 
 My final year project (FYP) at HKUST where we built a Powerless Vibration Sensor Probe using DHFLCs. For more detail on the project, the final report is [here](./FYP-Final-Report.pdf).
 
